@@ -8,7 +8,7 @@ git clone --recursive https://github.com/dmlc/tvm
 
 sudo apt update
 
-sudo apt install -y python python-dev python-setuptools gcc libtinfo-dev zlib1g-dev build-essential cmake
+sudo apt install -y python3 python3-dev python3-setuptools gcc libtinfo-dev zlib1g-dev build-essential cmake
 
 cd tvm
 
