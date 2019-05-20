@@ -2,17 +2,15 @@ sudo apt update
 
 sudo apt -y upgrade
 
-git clone --recursive https://github.com/dmlc/tvm
-
 sudo apt install git
 
-git clone --recursive https://github.com/dmlc/tvm
+sudo apt install -y python3 python3-dev python3-setuptools gcc libtinfo-dev zlib1g-dev build-essential cmake
 
 sudo apt update
 
 sudo apt -y upgrade
 
-sudo apt install -y python3 python3-dev python3-setuptools gcc libtinfo-dev zlib1g-dev build-essential cmake
+git clone --recursive https://github.com/dmlc/tvm
 
 cd tvm
 
