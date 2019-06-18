@@ -50,11 +50,15 @@ sudo apt install python3-pip
 
 pip3 install --user numpy decorator attrs
 
-================================================
+============================================================================================
 
 pip3 install https://download.pytorch.org/whl/cpu/torch-1.1.0-cp36-cp36m-linux_x86_64.whl
 
 pip3 install torchvision
+
+============================================================================================
+
+pip3 install six numpy scipy Pillow matplotlib scikit-image opencv-python imageio Shapely
 
 =============================================================================================
 
