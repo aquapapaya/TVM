@@ -60,7 +60,7 @@ pip3 install torchvision
 
 pip3 install six numpy scipy Pillow matplotlib scikit-image opencv-python imageio Shapely
 
-pip install imgaug
+pip3 install imgaug
 
 =============================================================================================
 
