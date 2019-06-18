@@ -60,6 +60,8 @@ pip3 install torchvision
 
 pip3 install six numpy scipy Pillow matplotlib scikit-image opencv-python imageio Shapely
 
+pip install imgaug
+
 =============================================================================================
 
 TVM可以稱為許多工具集的集合，其中這些工具可以組合起來使用，來實現我們的一些神經網絡的加速和部署功能。這也是為什麼叫做TVM Stack
